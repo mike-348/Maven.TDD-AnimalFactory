@@ -31,4 +31,9 @@ public class DogHouseTest {
         // Then
         DogHouse.getNumberOfDogs();
     }
+
+    @Test
+    public void testAddDog() {
+
+    }
 }
